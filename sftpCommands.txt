@@ -1,0 +1,5 @@
+get -r ~/pathTo/db.wp__backup.sql C:\Path\To\backupFiles\wordpressBak\database
+
+get -r ~/pathTo/wp-files.tar.gz C:\Path\To\backupFiles\wordpressBak\wp-files
+
+exit
