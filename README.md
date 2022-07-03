@@ -12,6 +12,7 @@ Then a scheduled task on my always-on windows machine would automatically pull t
 
 ### Potential Improvements:
 
+- ** Fix the hard coding of credentials in batch file using environmental variables or some other method of authentication for FTP **
 -Email notifcaitons of success/failure
 -Better documentation 
 -Improvements relating to bandwidth usage for the transfer, only run on changes, etc. 
